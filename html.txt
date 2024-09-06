@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My Web Page</h1>
+<p>Azure DevOps CI/CD Pipeline for deploying web application.</p>
+
+</body>
+</html>
+
